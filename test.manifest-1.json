@@ -1,0 +1,51 @@
+<json type="object">
+  <_0040context>http://iiif.io/api/presentation/3/context.json</_0040context>
+  <id>https://iiifiip.inha.fr/manifest/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.json</id>
+  <type>Manifest</type>
+  <label type="object">
+    <en type="array">
+      <_>decentr-1</_>
+    </en>
+  </label>
+  <items type="array">
+    <_ type="object">
+      <id>https://iiifiip.inha.fr/manifest/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.json</id>
+      <type>Canvas</type>
+      <height type="number">235</height>
+      <width type="number">260</width>
+      <label type="object">
+        <none type="array">
+          <_>NP</_>
+        </none>
+      </label>
+      <items type="array">
+        <_ type="object">
+          <id>https://iiifiip.inha.fr/manifest/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.json/annotation-page</id>
+          <type>AnnotationPage</type>
+          <items type="array">
+            <_ type="object">
+              <id>https://iiifiip.inha.fr/manifest/annotation/7e466a5e-af21-11f0-b22c-3ddb9645e7c0</id>
+              <type>Annotation</type>
+              <motivation>painting</motivation>
+              <target>https://iiifiip.inha.fr/manifest/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.json</target>
+              <body type="object">
+                <id>https://iiifiip.inha.fr/iiif/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.tiff/full/full/0/default.jpg</id>
+                <type>Image</type>
+                <format>image/jpg</format>
+                <height type="number">235</height>
+                <width type="number">260</width>
+                <service type="array">
+                  <_ type="object">
+                    <id>https://iiifiip.inha.fr/iiif/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.tiff</id>
+                    <type>ImageService3</type>
+                    <profile>level2</profile>
+                  </_>
+                </service>
+              </body>
+            </_>
+          </items>
+        </_>
+      </items>
+    </_>
+  </items>
+</json>
