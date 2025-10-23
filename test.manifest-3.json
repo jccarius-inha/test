@@ -9,6 +9,45 @@
   },
   "items":[
     {
+      "id":"https:\/\/iiifiip.inha.fr\/manifest\/35540518-af17-11f0-8aec-1d241367ac40.json",
+      "type":"Canvas",
+      "height":235,
+      "width":260,
+      "label":{
+        "none":[
+          "NP"
+        ]
+      },
+      "items":[
+        {
+          "id":"https:\/\/iiifiip.inha.fr\/manifest\/35540518-af17-11f0-8aec-1d241367ac40.json\/annotation-page",
+          "type":"AnnotationPage",
+          "items":[
+            {
+              "id":"https:\/\/iiifiip.inha.fr\/manifest\/annotation\/35540518-af17-11f0-8aec-1d241367ac40",
+              "type":"Annotation",
+              "motivation":"painting",
+              "target":"https:\/\/iiifiip.inha.fr\/manifest\/35540518-af17-11f0-8aec-1d241367ac40.json",
+              "body":{
+                "id":"https:\/\/iiifiip.inha.fr\/iiif\/35540518-af17-11f0-8aec-1d241367ac40.tiff\/full\/full\/0\/default.jpg",
+                "type":"Image",
+                "format":"image\/jpg",
+                "height":235,
+                "width":260,
+                "service":[
+                  {
+                    "id":"https:\/\/iiifiip.inha.fr\/iiif\/35540518-af17-11f0-8aec-1d241367ac40.tiff",
+                    "type":"ImageService3",
+                    "profile":"level2"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
       "id":"https:\/\/iiifiip.inha.fr\/manifest\/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.json",
       "type":"Canvas",
       "height":235,
