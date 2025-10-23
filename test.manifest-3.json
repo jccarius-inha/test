@@ -1,10 +1,10 @@
 {
   "@context":"http:\/\/iiif.io\/api\/presentation\/3\/context.json",
-  "id":"https:\/\/iiifiip.inha.fr\/manifest\/7e466a5e-af21-11f0-b22c-3ddb9645e7c0.json",
+  "id":"https:\/\/iiifiip.inha.fr\/manifest\/test.json",
   "type":"Manifest",
   "label":{
     "en":[
-      "decentr-1"
+      "test"
     ]
   },
   "items":[
